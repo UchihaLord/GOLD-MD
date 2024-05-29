@@ -80,14 +80,14 @@
 
     "desc": "Ap apna name likho",
     "required": true,
-    "value": "UMAR"
+    "value": "ASHLEY"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Ap apna number likho |+| nahi lagana ese likho 923xxxxx",
     "required":true,
-    "value": "233201817959"
+    "value": "263738403303"
   },
     "WARN_COUNT":
   {
